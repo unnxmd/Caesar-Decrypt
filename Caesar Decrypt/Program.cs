@@ -65,6 +65,12 @@ namespace Caesar_Decrypt
             {
                 Console.WriteLine(res);
             }
+            Console.WriteLine("-------------------------");
+            Console.ReadLine();
+            foreach (string res in results)
+            {
+                Console.WriteLine(res);
+            }
             Console.ReadLine();
         }
 
